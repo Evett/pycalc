@@ -50,6 +50,7 @@ b = None
 op = None
 
 while (True):
+    print "Welcome to PyCalc!"
     # get input values
     a = raw_input("Enter the first argument: ")
     op = raw_input("Enter the operation: ")
